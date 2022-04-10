@@ -1,0 +1,4 @@
+Salário dos funcionários:
+Bob: R$ 5.000,00
+Alice: R$ 7.000,00
+Eva: R$ 2.500,00
